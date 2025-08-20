@@ -84,7 +84,20 @@ Have questions? Join our community and connect with us directly!
 
 ---
 
-🤝 ContributingWe welcome community contributions once this repository is updated to include the open-source code for the Ecosystem page. Stay tuned!📄 LicenseThis repository is licensed under the [MIT License](./LICENSE).
+## Contributing
+
+We welcome contributions to this repository! Please see our [contributing guidelines](CONTRIBUTING.md) for more information on how to submit your DApp.
+
+### Commit Convention
+
+This repository follows the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification. All commits must adhere to this standard. Please see our [commit convention documentation](docs/COMMIT_CONVENTION.md) for detailed guidelines.
+
+---
+
+## 📄 License
+
+This repository is licensed under the [MIT License](./LICENSE).
+
 
 ---
 ## ⚠️ Disclaimer

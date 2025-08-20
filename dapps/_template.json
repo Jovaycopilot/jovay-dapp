@@ -1,0 +1,20 @@
+{
+  "name": "Your DApp Name",
+  "description": "A brief, one-sentence description of your DApp.",
+  "url": "https://...",
+  "logo": "https://.../logo.png",
+  "categories": ["DeFi", "GameFi", "or-other-categories"],
+  "sourceUrl": "https://github.com/...",
+  "contracts": [
+    {
+      "address": "0x...",
+      "network": "Jovay Mainnet",
+      "description": "e.g., Main logic contract"
+    },
+    {
+      "address": "0x...",
+      "network": "Jovay Mainnet",
+      "description": "e.g., Token contract"
+    }
+  ]
+}
