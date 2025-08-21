@@ -62,16 +62,37 @@ Here is a detailed breakdown of the information you'll need to provide in the su
 | **DApp Tags**              | Provide 3-5 keywords (tags) that describe your DApp's features, separated by commas. This helps users discover your project.       | `DEX, Swap, Liquidity, Farming`                                                                                 |
 
 ---
-## Review Criteria
+## DApp Vetting Process & Listing Criteria
 
-To ensure the quality and security of the Jovay ecosystem, our review team will assess submissions based on the following criteria:
+To maintain a secure, high-quality, and trustworthy ecosystem, all DApp submissions undergo a comprehensive review process. Projects are evaluated against the criteria below before being listed on our platform.
 
-- **Security**: Is the contract source code verified on the Jovay block explorer? Are there any known vulnerabilities?
-- **Functionality**: Does the DApp work as described? Are the core features fully functional?
-- **Deployment**: The DApp must be fully deployed and operational on the Jovay Mainnet, not just a testnet.
-- **User Experience (UX/UI)**: Is the interface well-designed, easy to navigate, and mobile-friendly?
-- **Originality & Value**: Does the DApp bring unique value or innovation to the Jovay ecosystem?
-- **Information Integrity**: Is all submitted information accurate, complete, and professional?
+---
+
+### 1. Security & Trust
+
+Security is our highest priority. We assess both the technical integrity of the DApp and its public reputation.
+
+*   **Smart Contract Audits:** We strongly prioritize DApps that have been audited by reputable third-party security firms (e.g., CertiK, SlowMist, ConsenSys Diligence, Trail of Bits). Audited projects will be eligible for a corresponding "Audited" badge.
+*   **Source Code Verification:** The DApp's smart contract source code **must** be publicly verified on the Jovay block explorer. This ensures transparency and allows for community review.
+*   **Threat Intelligence & Reputation Scan:** We conduct external scans to identify potential risks. This includes:
+    *   **URL Safety Check:** Scanning the DApp's official URL against databases like Google Safe Browsing and VirusTotal.
+    *   **Community Sentiment:** Assessing the project's reputation on social platforms (e.g., Twitter, Discord) for consistent user complaints or red flags.
+    *   **Domain Vetting:** Checking the domain's registration age and history, as newly created domains can be a risk indicator.
+
+### 2. Functionality & User Experience
+
+A DApp must be fully functional and provide a positive experience for our users.
+
+*   **Mainnet Deployment:** The DApp must be fully deployed and operational on the **Mainnet**. Submissions on testnets will not be accepted for public listing.
+*   **Core Functionality:** The DApp must function as described in its documentation. Our team will test all core features to ensure they are working correctly.
+*   **User Experience (UI/UX):** The interface should be well-designed, intuitive to navigate, and mobile-friendly to ensure accessibility for all users.
+
+### 3. Ecosystem Value & Information Integrity
+
+We seek to list DApps that add genuine value to the ecosystem.
+
+*   **Originality & Value:** The DApp should bring unique innovation, a new use case, or significant value to our users and the broader ecosystem.
+*   **Information Accuracy:** All submitted information (e.g., project description, social links, developer details) must be accurate, complete, and professionally presented. Misleading information will result in immediate rejection.
 
 ---
 ## 💬 Community & Support

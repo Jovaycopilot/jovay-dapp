@@ -5,6 +5,7 @@
   "logo": "https://.../logo.png",
   "categories": ["DeFi", "GameFi", "or-other-categories"],
   "sourceUrl": "https://github.com/...",
+  "auditReport": "path/to/audit/report",
   "contracts": [
     {
       "address": "0x...",
